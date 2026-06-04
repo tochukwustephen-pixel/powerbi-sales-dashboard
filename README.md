@@ -1,3 +1,7 @@
+
+[Financial Sample.xlsx](https://github.com/user-attachments/files/28615870/Financial.Sample.xlsx)
+<img width="1920" height="1030" alt="dashboard_preview" src="https://github.com/user-attachments/assets/8901ddbd-5447-4485-972d-2068aa7bdcb8" />
+
 # 📊 Power BI Sales Performance Dashboard
 
 ## Project Overview
